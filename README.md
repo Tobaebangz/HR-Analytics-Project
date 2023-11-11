@@ -6,3 +6,5 @@ I visualized this project using Power BI.
 This dashboard can quickly review and analyze all critical KPIs in one place. It helps HR teams to understand the satisfaction rate, number of employees based on age group, gender wise attrition rate 
 
 Here is an image of the dashboard
+
+![HR Dashboard](https://github.com/Tobaebangz/HR-Analytics-Project/assets/99491761/3cc201ae-1dc1-45a0-8f35-b8cd3ba50d8a)
